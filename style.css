@@ -1,0 +1,13 @@
+#shape{
+    border-radius: 15px;
+
+}
+
+body{
+    text-align: center;
+}
+
+table{
+    display:inherit;
+    margin-left: 550px;
+}
